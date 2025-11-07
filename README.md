@@ -1,7 +1,7 @@
 # Latihan Git
 Praktikum Version Control - Modul 4
 
-**Nama:** Sheva Osayana  
+**Nama:** Aldit Sheva Osyana  
 **NIM:** 301220075  
 
 **Deskripsi:**  
